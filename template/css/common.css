@@ -1,0 +1,24 @@
+body {
+    font-size: 0.7rem;    
+}
+.overflow
+{
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+.limit-vertical-250
+{
+    height:250px;
+}
+
+.limit-vertical-550
+{
+    height:550px;
+}
+
+.list-group-item p{
+    background-color: lightgray;
+    float: left;
+    margin-right: 15px;
+}
